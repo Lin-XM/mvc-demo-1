@@ -1,0 +1,21 @@
+#app2{
+
+}
+#app2 #tab_bar{
+    display:flex;
+}
+#app2 #tab_bar > li{
+    border:1px solid gray;
+    width: 50%;
+    text-align: center;
+}
+#app2 #tab_bar > li.selected{
+    background-color: yellowgreen;
+    color: white;
+}
+#app2 #tab_content > li{
+    display:none;
+}
+#app2 #tab_content > li.active{
+    display:block;
+}

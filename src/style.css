@@ -1,0 +1,42 @@
+/* body> .page{
+    display: flex;
+    flex-wrap: wrap;
+}
+body>.page> section{
+    width:50vw;
+    height: 50vh;
+}
+#app1{
+    border:1px solid red;
+
+}
+#actions>button{
+    padding:4px 6px;
+}
+
+#app2{
+    border:1px solid red;
+}
+#app2 #tab_bar{
+    display:flex;
+}
+#app2 #tab_bar > li{
+    border:3px solid black;
+    width: 50%;
+    text-align: center;
+}
+#app2 #tab_content > li{
+    display: none;
+}
+
+
+#app3{
+    border:1px solid black;
+}
+ 
+#app4{
+    border:1px solid blue;
+ 
+}
+
+ */
